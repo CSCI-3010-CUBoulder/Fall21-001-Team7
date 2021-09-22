@@ -7,4 +7,4 @@ main: test.cpp
 	$(GXX) $(GXX_FLAGS) test.cpp -o main
 
 clean: 
-	rm main *.out
+	rm main
